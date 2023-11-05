@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Compose Application01</string>
+    <string name="app_author">Mr. T Ndhlovu</string>
+    <string name="title">Little Ceaser Pizzarea</string>
 </resources>
