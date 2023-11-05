@@ -10,9 +10,14 @@ An introductory repository for getting comfortable with using jetpack compose.
 ### DESIGNING A UI STRUCTURE
 
 ----------------------------------
+
 |           MAIN PANEL           |
+
 |               |                |
+
 |               v                |
+
 |      TEXT COMPOSABLE           |
+
 ----------------------------------
 
