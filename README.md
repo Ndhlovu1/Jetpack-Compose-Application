@@ -8,16 +8,22 @@ An introductory repository for getting comfortable with using jetpack compose.
 3. They are always called from within other composables
 
 ### DESIGNING A UI STRUCTURE
+ MAIN PANEL  ->  TEXT COMPOSABLE   
 
-----------------------------------
+## Composable Layouts
 
-|           MAIN PANEL           |
+**Every UI Element is a composable**
 
-|               |                |
+### Most Commonly Used Layouts
 
-|               v                |
+1. ROW - Places composables horizontally
+     The position of the composable is defined through the **Arrangement** Property
+     **Main Axis** is the **Horizontal Axis**
 
-|      TEXT COMPOSABLE           |
+3. Column - Places Columns Vertically
+     The position of the composable is defined through the **Alignment** Property
+     **Cross Axis** is the Vetical Aligment 
 
-----------------------------------
+5. Box - Stacks composables on top of each other
+
 
