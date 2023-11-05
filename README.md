@@ -16,7 +16,7 @@ An introductory repository for getting comfortable with using jetpack compose.
 
 ### Most Commonly Used Layouts
 
-1. ROW - Places composables horizontally
+1. Row - Places composables horizontally
      The position of the composable is defined through the **Arrangement** Property
      **Main Axis** is the **Horizontal Axis**
 
